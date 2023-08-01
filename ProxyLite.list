@@ -136,3 +136,8 @@ IP-CIDR,220.181.174.34/32,no-resolve
 
 #ifast
 DOMAIN-SUFFIX,ifastgb.com
+DOMAIN-KEYWORD,ifastgb
+
+#OCBC
+DOMAIN-SUFFIX,ocbc.com
+DOMAIN-KEYWORD,ocbc
