@@ -39,3 +39,8 @@ DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,instagr.am
 
+# Twitter
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twimg.org
