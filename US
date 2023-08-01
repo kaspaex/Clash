@@ -16,4 +16,5 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 
-
+#HSBC
+DOMAIN-SUFFIX,us.hsbc.com
